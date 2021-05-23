@@ -14,7 +14,7 @@ const App=()=> {
 
   return(
       <div>
-          hi
+    {values}
       </div>
   )
 }
